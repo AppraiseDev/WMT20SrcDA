@@ -73,7 +73,30 @@ end time as well as duration per single assessment.
 
 ### How does source-based DA work?
 
-TBA
+This year the campaign features a document-level annotation view with the
+entire document presented on a single screen in two columns. The left column
+has source sentences and the right column has corresponding candidate
+translations (see the screen), that you will be scoring using a slider.
+
+![Screenshot of WMT20](/images/screen_wmt20.png)
+
+The annotation process consists of scoring individual sentences one-by-one and
+then assigning a single score for the entire document. Assigning the
+document-level score (the slider at the very bottom of the page) becomes
+available after all previous sentences are scored.
+
+Submitting a score will automatically move the annotation to the next sentence
+and open a new slider. A dot on the right side of the translated sentence
+roughly indicates the assigned score: a reddish dot means a lower score (worse
+translation), and a greenish dot means a higher score (better translation). The
+tick means that the score has been successfully collected by the server and the
+progress is saved (i.e. the web page can be reloaded without loosing the
+progress made on the current document). If you decide to change the assigned
+score, it is possible to do so at any point of the annotation process by
+clicking on the sentence text to expand a slider, updating the score, and
+clicking 'Update'. When the document-level score is submitted, the annotation
+process continues with the next document until all documents assigned to your
+account are annotated.
 
 ### How can I report problems?
 
