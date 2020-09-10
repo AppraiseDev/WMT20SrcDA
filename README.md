@@ -1,28 +1,26 @@
-# WMT19SrcDA
+# WMT20SrcDA
 
-Code and issue tracker for WMT19 source-based DA campaigns
+Code and issue tracker for WMT20 source-based DA campaigns
 
 ## Updates
 
-- 20190527: Accounts are *live now*, please start your annotation work
-- 20190520: [WMT19.appraise.cf](http://wmt19.appraise.cf) goes live, accounts shared with teams
-- 20190519: clarified annotation requirements, updated timeline
-- 20190517: created tasks and associated accounts
+- 20200909: Accounts are *live now*, please contact `{chrife,rogrundk,tomkocmi}@microsoft.com` about your accounts
+- 20190902: [WMT20.appraise.cf](http://wmt20.appraise.cf) goes live
 
 ## TL;DR
 
-- WMT19 will feature source-based direct assessment (DA)
+- WMT20 will feature source-based direct assessment (DA)
 - Evaluation will be based on document-level annotation
 - Source-based DA will focus on non-English target languages
-- Please use the [Github issue tracker](https://github.com/cfedermann/WMT19SrcDA/issues) to report any problems
+- Please use the [Github issue tracker](https://github.com/AppraiseDev/WMT20SrcDA/issues) to report any problems
 
 ## Timeline
 
-- 5/09: eval plan online on Github
-- 5/15--~5/16~ 5/20: research teams request accounts
-- 5/20: accounts shared with research teams
-- ~5/17~ 5/27: annotation starts
-- ~5/27~ 6/10: annotation ends
+- 9/09: eval plan online on Github
+- 9/10--9/17: research teams request accounts
+- (from) 9/10: accounts shared with research teams
+- 9/10: annotation starts
+- 10/10: annotation ends
 
 ## Campaign overview
 
@@ -41,12 +39,8 @@ Based on previous WMT evaluation campaigns, the average annotation time for
 one task is 30 minutes. One task involves approximately 100 judgements.
 
 Each research team is expected to contribute **eight hours of annotation work
-per primary system** submission. You can allocate those work hours either
-
-- in this campaign (the instructions you are looking at right now)
-- or in our reference-based evaluation campaign on Turkle, run by Matt Post and Mathias Mueller: https://github.com/bricksdont/WMT19RefDA
-
-This translates to **16 completed tasks** in total, on Turkle or Appraise, per primary system.
+per primary system** submission. This translates to **16 completed tasks**
+in total, on Appraise, per primary system.
 
 ### Who can be an annotator?
 
@@ -64,7 +58,7 @@ reserve the required amount of accounts for their team.
 
 ### Where can I claim my account?
 
-TBA
+Please contact `{chrife,rogrundk,tomkocmi}@microsoft.com` to request your accounts.
 
 ### How can I sign into Appraise?
 
@@ -83,5 +77,5 @@ TBA
 
 ### How can I report problems?
 
-Please use the [Github issue tracker](https://github.com/cfedermann/WMT19SrcDA/issues)
-to report any problems. You can also contact me via ``chrife [at] microsoft [dot] com``.
+Please use the [Github issue tracker](https://github.com/AppraiseDev/WMT20SrcDA/issues)
+to report any problems. You can also contact us via ``{chrife | rogrundk | tomkocmi } [at] microsoft [dot] com``.
