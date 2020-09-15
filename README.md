@@ -28,15 +28,13 @@ Code and issue tracker for WMT20 source-based DA campaigns
 
 Annotations will be collected in Appraise, implementing document-level,
 source-based direct assessment. For every language pair, there will be a
-pre-generated amount of annotations tasks (``HITs''). We also generate
+pre-generated amount of annotations tasks (``HITs''). We will generate
 anonymised accounts which are pre-assigned to exactly two annotation tasks.
-Based on previous WMT evaluation campaigns, the average annotation time for
-two tasks is one hour. So, every annotation account maps to one hour of work.
 
 ### How much annotation work is needed?
 
-Based on previous WMT evaluation campaigns, the average annotation time for
-one task is 30 minutes. One task involves approximately 100 judgements.
+One task involves approximately 100 judgements. Based on previous WMT evaluation
+campaigns, the average annotation time for one task is 30 minutes. 
 
 Each research team is expected to contribute **eight hours of annotation work
 per primary system** submission. This translates to **16 completed tasks**
@@ -55,6 +53,9 @@ Account distribution is based on first-come, first-served basis, i.e., once
 an account is marked as ``assigned'' to a team you cannot claim it anymore.
 Each research team should designate a team leader who is then responsible to
 reserve the required amount of accounts for their team.
+
+Each research team will be provided with 8 accounts, i.e. 16 annotation tasks,
+per primary system the team has submitted.
 
 ### Where can I claim my account?
 
