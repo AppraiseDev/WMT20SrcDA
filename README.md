@@ -4,6 +4,8 @@ Code and issue tracker for WMT20 source-based DA campaigns
 
 ## Updates
 
+- 20200916: Added Frequently Asked Question section
+- 20200910: Added description of source-based DA
 - 20200909: Accounts are *live now*, please contact `{chrife,rogrundk,tomkocmi}@microsoft.com` about your accounts
 - 20190902: [WMT20.appraise.cf](http://wmt20.appraise.cf) goes live
 
@@ -103,3 +105,14 @@ account are annotated.
 
 Please use the [Github issue tracker](https://github.com/AppraiseDev/WMT20SrcDA/issues)
 to report any problems. You can also contact us via ``{chrife | rogrundk | tomkocmi } [at] microsoft [dot] com``.
+
+## Frequently asked questions
+
+### Are there any reference based annotations or XXX into English translations?
+
+No, this campaign is source based DA for non-english target language only.
+
+### Is the 10th October deadline final?
+
+Unfortunately yes. In uttermost case, when you are sure that you cannot meet the deadline, try to finish as many annotations as possible and let us know. However, please try to avoid this as much as possible.
+
