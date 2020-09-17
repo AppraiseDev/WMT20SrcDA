@@ -116,3 +116,6 @@ No, this campaign is source based DA for non-english target language only.
 
 Unfortunately yes. In uttermost case, when you are sure that you cannot meet the deadline, try to finish as many annotations as possible and let us know. However, please try to avoid this as much as possible.
 
+### Do I need to annotate languages of my primary system submissions?
+
+No, that is not necessary. We balance annotations accross teams that speak various languages. You can annotate any language pair in which you are proficient.
