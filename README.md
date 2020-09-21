@@ -119,3 +119,7 @@ Unfortunately yes. In uttermost case, when you are sure that you cannot meet the
 ### Do I need to annotate languages of my primary system submissions?
 
 No, that is not necessary. We balance annotations accross teams that speak various languages. You can annotate any language pair in which you are proficient.
+
+### Why does some documents in annotation are same/similar?
+
+Various systems have translated the same document, therefore similar translations are annotated. Furthermore, it may happen that the same document occurs in multiple tasks.
